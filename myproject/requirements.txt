@@ -1,0 +1,16 @@
+# django
+django==4.1.7
+# uwsgi
+uwsgi==2.0.18
+# mysql
+mysqlclient==1.4.6
+# redis
+django-redis==4.12.1
+redis==3.5.3
+# for images
+Pillow==8.2.0
+openai==0.27.4
+djangorestframework==3.14.0
+PyMySQL==1.0.2
+django-cors-headers==3.14.0
+python-dotenv==0.21.1
